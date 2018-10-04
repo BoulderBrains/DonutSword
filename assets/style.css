@@ -33,9 +33,38 @@ nav {
 	float: left;
 	border: 2px solid black;
 	border-radius: 5px;
+	background-size: contain;
+}
+
+.container li:hover {
+	border: 3px solid #AE76F8;
 }
 
 .container p {
 	margin: 0 auto;
 	padding-top: 10px;
+}
+
+.inperson-impersonator {
+	background-image: url(images/Inpersonimpersonator.JPG);
+}
+
+.extroverter {
+
+}
+
+.playback-ring {
+	background-image: url(images/playbackring.JPG);
+}
+
+.glasses {
+
+}
+
+.time-zone-equalizer {
+
+}
+
+.translator {
+	background-image: url(images/translator.jpg);
 }
